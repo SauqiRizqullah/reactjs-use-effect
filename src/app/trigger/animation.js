@@ -1,4 +1,4 @@
-export class FadeAnimation{
+export class FadeInAnimation{
     constructor(node, startTime, frameId){
         this.node = node;
         this.startTime = startTime;
